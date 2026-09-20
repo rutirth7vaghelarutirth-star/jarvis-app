@@ -1,11 +1,9 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "JARVIS",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "JARVIS",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "JARVIS AI Assistant App"
 }
